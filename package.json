@@ -9,8 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.11"
+    "appmeteo": "file:",
+    "bootstrap": "^5.3.3",
+    "next": "^14.2.13",
+    "next-video": "^1.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.7",
+    "typescript": "5.6.2"
   }
 }
